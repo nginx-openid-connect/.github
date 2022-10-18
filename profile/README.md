@@ -1,4 +1,4 @@
-![](./img/nginx-oidc-flow.png)
+![](img/nginx-oidc-flow.png)
 
 - [NGINX Plus OIDC Core Engine](https://github.com/nginx-openid-connect/nginx-oidc-core)
 - [NGINX Plus OIDC w/ Amazon Cognito](https://github.com/nginx-openid-connect/nginx-oidc-amazon-cognito)
