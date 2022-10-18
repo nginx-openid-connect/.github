@@ -1,4 +1,4 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src=https://github.com/nginx-openid-connect/.github/raw/2cb406999549c66ece3dced3f2e64e3d978bb908/profile/img/nginx-oidc-flow.png height="200" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src=https://github.com/nginx-openid-connect/.github/raw/2cb406999549c66ece3dced3f2e64e3d978bb908/profile/img/nginx-oidc-flow.png /></a>
 
 - [NGINX Plus OIDC Core Engine](https://github.com/nginx-openid-connect/nginx-oidc-core)
 - [NGINX Plus OIDC w/ Amazon Cognito](https://github.com/nginx-openid-connect/nginx-oidc-amazon-cognito)
