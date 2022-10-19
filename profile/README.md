@@ -10,4 +10,5 @@
 - [NGINX Plus OIDC w/ OneLogin](https://github.com/nginx-openid-connect/nginx-oidc-onelogin)
 - [NGINX Plus OIDC w/ Ping Identity](https://github.com/nginx-openid-connect/nginx-oidc-ping-identity)
 - [NGINX Plus OIDC w/ Multi IdPs](https://github.com/nginx-openid-connect/nginx-oidc-multi-idps)
+- [NGINX Plus OIDC w/ Multi Clusters](https://github.com/nginx-openid-connect/nginx-oidc-multi-clusters)
 - [NGINX Plus OIDC Troubleshooting](https://github.com/nginx-openid-connect/nginx-oidc-troubleshooting)
