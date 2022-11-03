@@ -5,17 +5,16 @@
 - [NGINX Plus OIDC Core Engine v1](https://github.com/nginx-openid-connect/nginx-oidc-core-v1)
 
 **NGINX Plus OIDC: Identity Provider(IdP) Integration Examples**
-- [NGINX Plus OIDC v2 w/ Amazon Cognito](https://github.com/nginx-openid-connect/nginx-oidc-amazon-cognito)
-- [NGINX Plus OIDC v2 w/ Auth0](https://github.com/nginx-openid-connect/nginx-oidc-auth0)
-- [NGINX Plus OIDC v1 w/ Auth0](https://github.com/nginx-openid-connect/nginx-oidc-v1-auth0)
-- [NGINX Plus OIDC v2 w/ Azure AD](https://github.com/nginx-openid-connect/nginx-oidc-azure-ad)
-- [NGINX Plus OIDC v2 w/ Keycloak](https://github.com/nginx-openid-connect/nginx-oidc-keycloak)
-- [NGINX Plus OIDC v2 w/ Okta](https://github.com/nginx-openid-connect/nginx-oidc-okta)
-- [NGINX Plus OIDC v2 w/ OneLogin](https://github.com/nginx-openid-connect/nginx-oidc-onelogin)
-- [NGINX Plus OIDC v2 w/ Ping Identity](https://github.com/nginx-openid-connect/nginx-oidc-ping-identity)
+- [NGINX Plus OIDC w/ Amazon Cognito](https://github.com/nginx-openid-connect/nginx-oidc-amazon-cognito)
+- [NGINX Plus OIDC w/ Auth0](https://github.com/nginx-openid-connect/nginx-oidc-auth0)
+- [NGINX Plus OIDC w/ Azure AD](https://github.com/nginx-openid-connect/nginx-oidc-azure-ad)
+- [NGINX Plus OIDC w/ Keycloak](https://github.com/nginx-openid-connect/nginx-oidc-keycloak)
+- [NGINX Plus OIDC w/ Okta](https://github.com/nginx-openid-connect/nginx-oidc-okta)
+- [NGINX Plus OIDC w/ OneLogin](https://github.com/nginx-openid-connect/nginx-oidc-onelogin)
+- [NGINX Plus OIDC w/ Ping Identity](https://github.com/nginx-openid-connect/nginx-oidc-ping-identity)
 
 **NGINX Plus OIDC: Advanced Examples & Troubleshooting**
-- [NGINX Plus OIDC v1 w/ Kubernetes](https://github.com/nginx-openid-connect/nginx-oidc-kubernetes)
-- [NGINX Plus OIDC v2 w/ Multi IdPs per Cluster](https://github.com/nginx-openid-connect/nginx-oidc-multi-idps)
-- [NGINX Plus OIDC v2 w/ Multi Clusters](https://github.com/nginx-openid-connect/nginx-oidc-multi-clusters)
+- [NGINX Plus OIDC w/ Kubernetes](https://github.com/nginx-openid-connect/nginx-oidc-kubernetes)
+- [NGINX Plus OIDC w/ Multi IdPs per Cluster](https://github.com/nginx-openid-connect/nginx-oidc-multi-idps)
+- [NGINX Plus OIDC w/ Multi Clusters](https://github.com/nginx-openid-connect/nginx-oidc-multi-clusters)
 - [NGINX Plus OIDC Troubleshooting](https://github.com/nginx-openid-connect/nginx-oidc-troubleshooting)
