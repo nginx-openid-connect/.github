@@ -3,6 +3,7 @@
 **NGINX Plus OIDC: Core Engine**
 - [NGINX Plus OIDC Core Engine v2](https://github.com/nginx-openid-connect/nginx-oidc-core)
 - [NGINX Plus OIDC Core Engine v1](https://github.com/nginx-openid-connect/nginx-oidc-core-v1)
+- [NGINX Plus OIDC Core Engine v1 - Quick Start Guide](https://github.com/nginx-openid-connect/nginx-oidc-examples/blob/main/001-oidc-local-test/README.md)
 
 **NGINX Plus OIDC: Identity Provider(IdP) Integration Examples** to quickly speed up OIDC Setup/Dev/Test A-To-Z!
 - [NGINX Plus OIDC w/ Amazon Cognito](https://github.com/nginx-openid-connect/nginx-oidc-amazon-cognito)
