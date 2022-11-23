@@ -16,6 +16,7 @@
 
 **NGINX Plus OIDC: Advanced Examples & Troubleshooting**
 - [NGINX Plus OIDC w/ Kubernetes](https://github.com/nginx-openid-connect/nginx-oidc-kubernetes)
+- [NGINX Plus OIDC w/ Kubernetes - Examples](https://github.com/nginx-openid-connect/nginx-oidc-k8s-examples)
 - [NGINX Plus OIDC w/ Multi IdPs per Cluster](https://github.com/nginx-openid-connect/nginx-oidc-multi-idps)
 - [NGINX Plus OIDC w/ Multi Clusters](https://github.com/nginx-openid-connect/nginx-oidc-multi-clusters)
 - [NGINX Plus OIDC Troubleshooting](https://github.com/nginx-openid-connect/nginx-oidc-troubleshooting)
