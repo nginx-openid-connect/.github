@@ -9,7 +9,7 @@
 - [NGINX Plus OIDC w/ Amazon Cognito](https://github.com/nginx-openid-connect/nginx-oidc-amazon-cognito)
 - [NGINX Plus OIDC w/ Auth0](https://github.com/nginx-openid-connect/nginx-oidc-auth0)
 - [NGINX Plus OIDC w/ Azure AD](https://github.com/nginx-openid-connect/nginx-oidc-azure-ad)
-- [NGINX Plus OIDC w/ Cloudentity](https://github.com/nginx-openid-connect/nginx-oidc-cloudidentity)
+- [NGINX Plus OIDC w/ Cloudentity](https://github.com/nginx-openid-connect/nginx-oidc-cloudentity)
 - [NGINX Plus OIDC w/ Keycloak](https://github.com/nginx-openid-connect/nginx-oidc-keycloak)
 - [NGINX Plus OIDC w/ Okta](https://github.com/nginx-openid-connect/nginx-oidc-okta)
 - [NGINX Plus OIDC w/ OneLogin](https://github.com/nginx-openid-connect/nginx-oidc-onelogin)
