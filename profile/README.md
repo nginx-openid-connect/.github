@@ -14,9 +14,9 @@
 - [NGINX Plus OIDC w/ OneLogin](https://github.com/nginx-openid-connect/nginx-oidc-onelogin)
 - [NGINX Plus OIDC w/ Ping Identity](https://github.com/nginx-openid-connect/nginx-oidc-ping-identity)
 
-**NGINX Plus OIDC: Advanced Examples & Troubleshooting**
-- [NGINX Plus OIDC for NGINX Management Suite](https://github.com/nginx-openid-connect/nginx-oidc-nms)
-- [NGINX Plus OIDC w/ Kubernetes](https://github.com/nginx-openid-connect/nginx-oidc-kubernetes)
+** Advanced OIDC Examples & Troubleshooting**
+- [NGINX Management Suite OIDC](https://github.com/nginx-openid-connect/nginx-oidc-nms)
+- [NGINX Kubernetes Ingress Controller OIDC](https://github.com/nginx-openid-connect/nginx-oidc-kubernetes)
 - [NGINX Plus OIDC w/ Kubernetes - Examples](https://github.com/nginx-openid-connect/nginx-oidc-k8s-examples)
 - [NGINX Plus OIDC w/ Multi IdPs per Cluster](https://github.com/nginx-openid-connect/nginx-oidc-multi-idps)
 - [NGINX Plus OIDC w/ Multi Clusters](https://github.com/nginx-openid-connect/nginx-oidc-multi-clusters)
