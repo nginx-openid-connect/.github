@@ -11,6 +11,7 @@
 - [Okta Integration](https://github.com/nginx-openid-connect/nginx-oidc-okta)
 - [OneLogin Integration](https://github.com/nginx-openid-connect/nginx-oidc-onelogin)
 - [Ping Identity Integration](https://github.com/nginx-openid-connect/nginx-oidc-ping-identity)
+- [NetIQ Access Manager Integration](https://github.com/nginx-openid-connect/nginx-oidc-netiq)
 
 **Advanced OIDC Examples & Troubleshooting**
 - [NGINX Kubernetes Ingress Controller OIDC](https://github.com/nginx-openid-connect/nginx-oidc-kubernetes)
