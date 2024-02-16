@@ -4,13 +4,13 @@
 - [NGINX OIDC RP Core](https://github.com/nginx-openid-connect/nginx-oidc-core)
 
 **NGINX OIDC: Identity Provider(IdP) Integration Examples** to quickly speed up OIDC Setup/Dev/Test A-To-Z!
-- [Amazon Cognito Integration](https://github.com/nginx-openid-connect/nginx-oidc-amazon-cognito)
-- [Auth0 Integration](https://github.com/nginx-openid-connect/nginx-oidc-auth0)
-- [Azure Entera(a.k.a. AD) Integration](https://github.com/nginx-openid-connect/nginx-oidc-azure-ad)
-- [Keycloak Integration](https://github.com/nginx-openid-connect/nginx-oidc-keycloak)
-- [Okta Integration](https://github.com/nginx-openid-connect/nginx-oidc-okta)
-- [OneLogin Integration](https://github.com/nginx-openid-connect/nginx-oidc-onelogin)
-- [Ping Identity Integration](https://github.com/nginx-openid-connect/nginx-oidc-ping-identity)
+- [Amazon Cognito w/ NGINX](https://github.com/nginx-openid-connect/nginx-oidc-amazon-cognito)
+- [Auth0 w/ NGINX](https://github.com/nginx-openid-connect/nginx-oidc-auth0)
+- [Azure Entera(a.k.a. AD) w/ NGINX](https://github.com/nginx-openid-connect/nginx-oidc-azure-ad)
+- [Keycloak w/ NGINX](https://github.com/nginx-openid-connect/nginx-oidc-keycloak)
+- [Okta w/ NGINX](https://github.com/nginx-openid-connect/nginx-oidc-okta)
+- [OneLogin w/ NGINX](https://github.com/nginx-openid-connect/nginx-oidc-onelogin)
+- [Ping Identity w/ NGINX](https://github.com/nginx-openid-connect/nginx-oidc-ping-identity)
 
 **Advanced OIDC Examples & Troubleshooting**
 - [NGINX Kubernetes Ingress Controller OIDC](https://github.com/nginx-openid-connect/nginx-oidc-kubernetes)
