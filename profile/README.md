@@ -10,7 +10,6 @@
 - [Keycloak w/ NGINX](https://github.com/nginx-openid-connect/nginx-oidc-keycloak)
 - [Keycloak w/ NGINX](https://github.com/nginx-openid-connect/nginx-oidc-keycloak)
 - [NetIQ Access Manager w/ NGINX](https://github.com/nginx-openid-connect/nginx-oidc-netiq)
-
 - [Okta w/ NGINX](https://github.com/nginx-openid-connect/nginx-oidc-okta)
 - [OneLogin w/ NGINX](https://github.com/nginx-openid-connect/nginx-oidc-onelogin)
 - [Ping Identity w/ NGINX](https://github.com/nginx-openid-connect/nginx-oidc-ping-identity)
