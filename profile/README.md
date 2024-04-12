@@ -23,4 +23,5 @@
 - [NGINX Kubernetes Ingress Controller OIDC](https://github.com/nginx-openid-connect/nginx-oidc-kubernetes)
 - [NGINX OIDC w/ Multi IdPs per Cluster](https://github.com/nginx-openid-connect/nginx-oidc-multi-idps)
 - [NGINX OIDC Troubleshooting](https://github.com/nginx-openid-connect/nginx-oidc-troubleshooting)
+- [F5 OIDC SSO Simulator](https://github.com/nginx-openid-connect/f5-oidc-sso-simulator)
 
